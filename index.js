@@ -29,6 +29,5 @@ module.exports = {
     "jQuery": true,
     "namespacer": true,
     "seniorExpo": true
-  },
-  "extends": "airbnb"
+  }
 };
