@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-baltimorecounty",
+  "version": "1.0.1",
+  "description": "Accepted eslint configuration as used at baltimorecounty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Marty Powell",
+  "license": "ISC"
+}
