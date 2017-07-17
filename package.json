@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-baltimorecounty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Accepted eslint configuration as used at baltimorecounty",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,12 @@
     "eslintconfig"
   ],
   "author": "Marty Powell",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
 }
