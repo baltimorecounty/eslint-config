@@ -19,7 +19,7 @@ You need to install a couple packages in your project before you can lint your j
 1. ```npm install eslint-config-airbnb```
 1. ```npm install eslint-plugin-import@^2.2.0```
 1. ```npm install eslint-plugin-jsx-a11y@^5.1.1```
-1. ```npm install eslint-config-baltimorecounty```
+1. ```npm install eslint-config-baltimorecounty``` [npm package](https://www.npmjs.com/package/eslint-config-baltimorecounty)
 
 ## Tools
 
