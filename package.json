@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-baltimorecounty",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Accepted eslint configuration as used at baltimorecounty",
   "main": "index.js",
   "url": "https://github.com/baltimorecounty/eslint-config",
@@ -12,8 +12,5 @@
     "eslintconfig"
   ],
   "author": "Marty Powell",
-  "license": "ISC",
-  "peerDependencies": {
-    "eslint": "4.2.0"
-  }
+  "license": "ISC"
 }
