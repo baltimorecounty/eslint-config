@@ -21,7 +21,9 @@ module.exports = {
     "valid-typeof": "warn",
     "indent": "off",
     "no-tabs": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "var-on-top": "off",
+    "no-shadow-restricted-names": "off"
   },
   "globals": {
     "$": true,
