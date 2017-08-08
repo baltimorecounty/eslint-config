@@ -6,7 +6,7 @@ Create or modify a ```.eslintrc.json``` [eslint config](http://eslint.org/docs/u
 ```json
 {
   "extends": [
-    "airbnb",
+    "airbnb/legacy",
     "baltimorecounty"
   ]
 }
