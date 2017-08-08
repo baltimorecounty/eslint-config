@@ -22,7 +22,7 @@ module.exports = {
     "indent": "off",
     "no-tabs": "off",
     "linebreak-style": "off",
-    "var-on-top": "off",
+    "vars-on-top": "off",
     "no-shadow-restricted-names": "off"
   },
   "globals": {
