@@ -15,7 +15,6 @@ Create or modify a ```.eslintrc.json``` [eslint config](http://eslint.org/docs/u
 ## Installation
 You need to install a couple packages in your project before you can lint your javascript
 
-1. ```npm install eslint@^3.19.0 -g```
 1. ```npm install eslint@^3.19.0 --save-dev```
 1. ```npm install eslint-config-airbnb --save-dev```
 1. ```npm install eslint-plugin-import@^2.2.0 --save-dev```
