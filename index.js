@@ -19,7 +19,7 @@ module.exports = {
     "no-unused-vars": "warn",
     "constructor-super": "warn",
     "valid-typeof": "warn",
-    "indent": "off",
+    "indent": ["error", "tab"],
     "no-tabs": "off",
     "linebreak-style": "off",
     "vars-on-top": "off",

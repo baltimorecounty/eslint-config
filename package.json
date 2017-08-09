@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-baltimorecounty",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Accepted eslint configuration as used at baltimorecounty",
   "main": "index.js",
   "url": "https://github.com/baltimorecounty/eslint-config",
