@@ -30,6 +30,9 @@ module.exports = {
     "baltimoreCounty": true,
     "jQuery": true,
     "namespacer": true,
-    "seniorExpo": true
+	"seniorExpo": true,
+	"bcpl": true,
+	"_": true,
+	"Handlebars": true
   }
 };
