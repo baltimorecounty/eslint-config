@@ -23,7 +23,8 @@ module.exports = {
     "no-tabs": "off",
     "linebreak-style": "off",
     "vars-on-top": "off",
-    "no-shadow-restricted-names": "off"
+    "no-shadow-restricted-names": "off",
+    "no-use-before-define": "off"
   },
   "globals": {
     "$": true,
